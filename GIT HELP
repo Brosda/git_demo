@@ -1,5 +1,0 @@
-git clone -- clones a repo omto your local machine
-git branch -- lets us track seperate copies of our code
-git push -- allows us to upload to git hub
-git add -- allows to see what current changes are unstaged or not commited
-git commit -- 
